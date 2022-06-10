@@ -1,1 +1,5 @@
+# Ingnoring all csv files
+
 .github/**
+*.csv
+
