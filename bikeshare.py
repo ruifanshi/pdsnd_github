@@ -184,6 +184,7 @@ def user_stats(df):
     print('-' * 40)
 
 def display_data(df):
+    """Asks whther uesers want to see rawdata"""
 
     view_data = input("Would you like to view 5 rows of individual trip data? Enter yes or no: ").lower()
     start_loc =0
